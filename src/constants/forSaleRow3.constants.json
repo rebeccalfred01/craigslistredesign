@@ -1,0 +1,21 @@
+[
+    {
+      "imageLink": "https://images.unsplash.com/photo-1502556112530-246c3be76309?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFyc2hhbGwlMjBzcGVha2VyfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+      "title": "Marshal JB70",
+      "caption": "Posted by Yngwie Malmsteen",
+      "cost": "₹20,000"
+    },
+    {
+      "imageLink": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bG91aXMlMjB2dWl0dG9ufGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+      "title": "Gucci Masco Bag",
+      "caption": "Posted by Kim Humour",
+      "cost": "₹1,90,000"
+    },
+    {
+      "imageLink": "https://images.unsplash.com/photo-1611955167811-4711904bb9f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGpld2Vscnl8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "title": "Cartier Bonjourno Ring",
+      "caption": "Posted by Kylie Glimpse",
+      "cost": "₹8,00,000"
+    }
+  ]
+  

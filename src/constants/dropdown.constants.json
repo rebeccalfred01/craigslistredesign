@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Community",
+    "items": [
+      { "name": "Activities" },
+      { "name": "Artists" },
+      { "name": "Childcare" },
+      { "name": "Classes" },
+      { "name": "Events" },
+      { "name": "General" },
+      { "name": "Groups" },
+      { "name": "Local News" }
+    ]
+  },
+  {
+    "title": "Housing",
+    "items": [
+      { "name": "Apts/ Housing" },
+      { "name": "Housing Swap" },
+      { "name": "Housing Wanted" },
+      { "name": "Packing/ Storage" },
+      { "name": "Vacation Rentals" }
+    ]
+  },
+  {
+    "title": "For Sale",
+    "items": [
+      { "name": "For Sale", "link": "/for-sale" },
+      { "name": "Antiques", "link": "/for-sale" },
+      { "name": "Appliances", "link": "/for-sale" },
+      { "name": "Auto Parts", "link": "/for-sale" },
+      { "name": "Jewellery", "link": "/for-sale" }
+    ]
+  },
+  {
+    "title": "Jobs",
+    "items": [
+      { "name": "Government" },
+      { "name": "General Labour" },
+      { "name": "Human Resources" },
+      { "name": "Real Estatae" },
+      { "name": "Security" }
+    ]
+  },
+  {
+    "title": "Services",
+    "items": [
+      { "name": "Automotive" },
+      { "name": "Beauty" },
+      { "name": "Creative" },
+      { "name": "Financial" },
+      { "name": "Household" }
+    ]
+  },
+  {
+    "title": "Discussion Forums",
+    "items": [
+      { "name": "Arts" },
+      { "name": "History" },
+      { "name": "Politics" },
+      { "name": "Science" },
+      { "name": "Sports" }
+    ]
+  }
+]

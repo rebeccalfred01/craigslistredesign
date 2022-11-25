@@ -1,0 +1,21 @@
+[
+    {
+      "imageLink": "https://images.unsplash.com/photo-1618519764620-7403abdbdfe9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y29taWN8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+      "title": "Vintage Comics Collection",
+      "caption": "Posted by Dax Kelser",
+      "cost": "₹40,000"
+    },
+    {
+      "imageLink": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bWFjYm9va3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+      "title": "Macbook Air",
+      "caption": "Posted by Steve Lukather",
+      "cost": "₹90,000"
+    },
+    {
+      "imageLink": "https://images.unsplash.com/photo-1603090429922-0c4cf6f3638f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8c3ludGhlc2l6ZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+      "title": "Roland 44D Synthesizer",
+      "caption": "Posted by Josh Bradley",
+      "cost": "₹80,000"
+    }
+  ]
+  

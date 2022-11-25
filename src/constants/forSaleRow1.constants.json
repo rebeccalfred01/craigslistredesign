@@ -1,0 +1,20 @@
+[
+  {
+    "imageLink": "https://images.unsplash.com/photo-1449426468159-d96dbf08f19f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80",
+    "title": "KTM RC 390",
+    "caption": "Posted by CreatineMonster340",
+    "cost": "₹1,20,000"
+  },
+  {
+    "imageLink": "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cm9sZXh8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+    "title": "Rolex F703",
+    "caption": "Posted by Adam Webbs",
+    "cost": "₹6,00,000"
+  },
+  {
+    "imageLink": "https://images.unsplash.com/photo-1525201548942-d8732f6617a0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+    "title": "Fender Squier Guitar",
+    "caption": "Posted by Rudhraksh",
+    "cost": "₹30,000"
+  }
+]
