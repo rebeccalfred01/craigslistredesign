@@ -1,5 +1,15 @@
 [
   {
+    "title": "For Sale",
+    "items": [
+      { "name": "For Sale", "link": "/for-sale" },
+      { "name": "Antiques", "link": "/for-sale" },
+      { "name": "Appliances", "link": "/for-sale" },
+      { "name": "Auto Parts", "link": "/for-sale" },
+      { "name": "Jewellery", "link": "/for-sale" }
+    ]
+  },
+  {
     "title": "Community",
     "items": [
       { "name": "Activities" },
@@ -20,16 +30,6 @@
       { "name": "Housing Wanted" },
       { "name": "Packing/ Storage" },
       { "name": "Vacation Rentals" }
-    ]
-  },
-  {
-    "title": "For Sale",
-    "items": [
-      { "name": "For Sale", "link": "/for-sale" },
-      { "name": "Antiques", "link": "/for-sale" },
-      { "name": "Appliances", "link": "/for-sale" },
-      { "name": "Auto Parts", "link": "/for-sale" },
-      { "name": "Jewellery", "link": "/for-sale" }
     ]
   },
   {

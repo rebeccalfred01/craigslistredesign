@@ -33,9 +33,27 @@ const Carousel = (props) => {
     setCarouselIndex(carouselIndex - NUM_IMAGES);
   };
 
+  const render = () => {
+    if (props.onClick) {
+      return (
+        <div
+          onClick={() => props.onClick()}
+          className="mx-4 mt-4 mb-2 font-bold text-[#663399] border-0"
+        >
+          {props.categoryHeading}
+        </div>
+      );
+    }
+    return (
+      <div className="mx-4 mt-4 mb-2 font-bold border-0">
+        {props.categoryHeading}
+      </div>
+    );
+  };
+
   return (
     <div className="relative clearfix mt-2 mb-4 mx-10 flex align-center justify-between flex-row flex-wrap">
-      <div className="mx-4 mt-4 mb-2 border-0">{props.categoryHeading}</div>
+      {render()}
       <p className="basis-full invisible" />
       <div className="flex overflow-x-auto relative">
         <div className="flex w-full z-100 justify-between absolute top-24">
