@@ -23,7 +23,7 @@ const Landing = (props) => {
       <Carousel
         onClick={() => onClickHandler()}
         data={data1}
-        categoryHeading="For Sale"
+        categoryHeading="For Sale (Please Click this)"
         subCategory={true}
       />
 

@@ -4,11 +4,11 @@ const PriceRange = () => {
   return (
     <>
       <div className="Price font-bold ">Price</div>
-      <div className="Prices mb-2 ">Under ₹2000</div>
-      <div className="Prices mb-2">Under ₹2000</div>
-      <div className="Prices mb-2">Under ₹2000</div>
-      <div className="Prices mb-2">Under ₹2000</div>
-      <div className="Prices mb-2">Under ₹2000</div>
+      <div className="Prices mb-2 ">Under ₹2,000</div>
+      <div className="Prices mb-2 ">₹2,000 - ₹5,000</div>
+      <div className="Prices mb-2">₹5,000 - ₹10,000</div>
+      <div className="Prices mb-2">₹10,000 - ₹20,000</div>
+      <div className="Prices mb-2">Over ₹20,000</div>
 
       <input
         placeholder="min"

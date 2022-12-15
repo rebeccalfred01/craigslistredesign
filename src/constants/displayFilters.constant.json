@@ -1,5 +1,5 @@
 {
-    "title": "DisplayFilter",
-    "items": ["All", "Owner", "Dealer","yaba da boop","beep pop","pop"]
+    "title": "Display Filter",
+    "items": ["Search titles only", "Has image", "Posted today","Bundle duplicates","Nearby areas"]
   }
   
